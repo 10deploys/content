@@ -1,0 +1,126 @@
+- type: copyright
+  description: todos os direitos reservados
+
+- type: CC0
+  description: sob domínio público
+  url: https://creativecommons.org/share-your-work/public-domain/cc0/
+
+- type: CCBY40
+  description: licenciado sob CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+
+- type: CCBYSA40
+  description: licenciado sob CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+
+- type: CCBYNC40
+  description: licenciado sob CC BY-NC 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+
+- type: CCBYND40
+  description: licenciado sob CC BY-ND 4.0
+  url: https://creativecommons.org/licenses/by-nd/4.0/
+
+- type: CCBYNCND40
+  description: licenciado sob CC BY-NC-ND 4.0
+  url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+- type: CCBYNCSA40
+  description: licenciado sob CC BY-NC-SA 4.0
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+- type: CCBY30
+  description: licenciado sob CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0/
+
+- type: CCBYSA30
+  description: licenciado sob CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0/
+
+- type: CCBYNC30
+  description: licenciado sob CC BY-NC 3.0
+  url: https://creativecommons.org/licenses/by-nc/3.0/
+
+- type: CCBYND30
+  description: licenciado sob CC BY-ND 3.0
+  url: https://creativecommons.org/licenses/by-nd/3.0/
+
+- type: CCBYNCND30
+  description: licenciado sob CC BY-NC-ND 3.0
+  url: https://creativecommons.org/licenses/by-nc-nd/3.0/
+
+- type: CCBYNCSA30
+  description: licenciado sob CC BY-NC-SA 3.0
+  url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+- type: CCBY25
+  description: licenciado sob CC BY 2.5
+  url: https://creativecommons.org/licenses/by/2.5/
+
+- type: CCBYSA25
+  description: licenciado sob CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5/
+
+- type: CCBYNC25
+  description: licenciado sob CC BY-NC 2.5
+  url: https://creativecommons.org/licenses/by-nc/2.5/
+
+- type: CCBYND25
+  description: licenciado sob CC BY-ND 2.5
+  url: https://creativecommons.org/licenses/by-nd/2.5/
+
+- type: CCBYNCND25
+  description: licenciado sob CC BY-NC-ND 2.5
+  url: https://creativecommons.org/licenses/by-nc-nd/2.5/
+
+- type: CCBYNCSA25
+  description: licenciado sob CC BY-NC-SA 2.5
+  url: https://creativecommons.org/licenses/by-nc-sa/2.5/
+
+- type: CCBY20
+  description: licenciado sob CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0/
+
+- type: CCBYSA20
+  description: licenciado sob CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+
+- type: CCBYNC20
+  description: licenciado sob CC BY-NC 2.0
+  url: https://creativecommons.org/licenses/by-nc/2.0/
+
+- type: CCBYND20
+  description: licenciado sob CC BY-ND 2.0
+  url: https://creativecommons.org/licenses/by-nd/2.0/
+
+- type: CCBYNCND20
+  description: licenciado sob CC BY-NC-ND 2.0
+  url: https://creativecommons.org/licenses/by-nc-nd/2.0/
+
+- type: CCBYNCSA20
+  description: licenciado sob CC BY-NC-SA 2.0
+  url: https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+- type: CCBY10
+  description: licenciado sob CC BY 1.0
+  url: https://creativecommons.org/licenses/by/1.0/
+
+- type: CCBYSA10
+  description: licenciado sob CC BY-SA 1.0
+  url: https://creativecommons.org/licenses/by-sa/1.0/
+
+- type: CCBYNC10
+  description: licenciado sob CC BY-NC 1.0
+  url: https://creativecommons.org/licenses/by-nc/1.0/
+
+- type: CCBYND10
+  description: licenciado sob CC BY-ND 1.0
+  url: https://creativecommons.org/licenses/by-nd/1.0/
+
+- type: CCBYNCND10
+  description: licenciado sob CC BY-NC-ND 1.0
+  url: https://creativecommons.org/licenses/by-nc-nd/1.0/
+
+- type: CCBYNCSA10
+  description: licenciado sob CC BY-NC-SA 1.0
+  url: https://creativecommons.org/licenses/by-nc-sa/1.0/

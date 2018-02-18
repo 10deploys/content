@@ -1,0 +1,67 @@
+name: 10deploys
+tagline_call: 10deploys é um podcast sobre
+tagline: |
+  DevOps:<br />
+  conceitos,<br />
+  tendências,<br />
+  e tudo o mais.
+
+summary_1: |
+  <strong>Apresentado por Fernando Ike e Eriksen Costa</strong>, o podcast 10deploys é uma conversa quase
+  formal sobre DevOps.
+
+  São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de
+  ajudar organizações a se transformarem em organizações de alto desempenho.
+
+summary_2: |
+  <strong>Os episódios são transmitidos ao vivo no YouTube.</strong> Depois, são disponibilizados no
+  <a href="https://soundcloud.com/naestradadevops">SoundCloud</a>, no
+  <a href="https://itunes.apple.com/br/podcast/na-estrada-devops-podcast/id1229389273">iTunes</a> e no
+  <a href="https://www.youtube.com/channel/UCREewYvRYYQSLlJYEq_ZXvw">YouTube</a>.
+
+  Para saber quando será o próximo episódio, siga o 10deploys nas redes sociais.
+
+social_media:
+  # Facebook: https://facebook.com/example
+  Twitter: https://twitter.com/10deploys
+  # LinkedIn: https://www.linkedin.com/company/example
+  Soundcloud: https://soundcloud.com/naestradadevops
+  iTunes: https://itunes.apple.com/br/podcast/na-estrada-devops-podcast/id1229389273
+  YouTube: https://www.youtube.com/channel/UCREewYvRYYQSLlJYEq_ZXvw
+  GitHub: https://github.com/10deploys
+
+about_title: Sobre
+about_summary: |
+  O podcast 10deploys foi uma ideia do Fernando Ike (ops), que convidou Eriksen Costa (dev) para gravar
+  um primeiro episódio e ver no que daria. Inicialmente chamado Na Estrada DevOps, o podcast é uma conversa
+  quase formal. Poderia ser descrito como uma gravação de uma conversa qualquer que os apresentadores tem,
+  rotineiramente, entre si.
+
+authors:
+  - name: Fernando Ike
+    biography: |
+      <strong>Fernando Ike é DevOps Engineer na QuintoAndar</strong>, startup que ajuda as pessoas a alugarem
+      apartamento com rapidez e segurança em São Paulo. Possui mais de 20 anos de experiência, já foi Administrador
+      de Sistemas e Gestor de TI em empresas públicas e privadas, liderando transformações ágeis. Também organiza o
+      Meetup Docker São Paulo.
+    social_media:
+      Twitter: https://twitter.com/fernandoike
+      GitHub: https://github.com/fike
+      Website: https://www.fernandoike.com
+  - name: Eriksen Costa
+    biography: |
+      <strong>Eriksen Costa é Especialista em TI na Easy</strong>, solução de mobilidade urbana presente em 12 países
+      da América Latina. Como desenvolvedor de software com mais de 10 anos de experiência, ajudou times e organizações
+      a reduzirem o tempo ao mercado, mesclando práticas do Lean, das metodologias ágeis, do Continuous Delivery e do
+      movimento DevOps.
+    social_media:
+      Twitter: https://twitter.com/eriksencosta
+      GitHub: https://github.com/eriksencosta
+      Website: https://blog.eriksen.com.br
+
+license: |
+  Exceto quando indicado de outra forma, o conteúdo desse site está licenciado sobre uma licença
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons</a>. Os autores reservam para si o direito
+  da marca 10deploys.
+
+location: São Paulo, Brasil

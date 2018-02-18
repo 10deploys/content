@@ -1,0 +1,19 @@
+email_sender: https://formcarry.com/s/BkxWNfBwz
+
+title: Fale conosco
+instructions: |
+  Quer sugerir um tema para um próximo episódio? Mandar uma dúvida? Patrocinar o podcast?
+  Todos os campos são obrigatórios.
+
+name_label: Nome
+email_label: E-mail
+message_label: Mensagem
+submit_label: Enviar
+cage_label: Campo não usado
+
+validation_messages:
+  nameError: "O nome não pode ser vazio"
+  emailError: "Esse endereço de e-mail é inválido"
+  messageError: "A mensagem não pode ser vazia"
+  successSubmission: "Recebemos sua mensagem, obrigado!"
+  failedSubmission: "Um error aconteceu durante a sua submissão. Por favor, tente novamente mais tarde."

@@ -1,0 +1,77 @@
+url: "https://10deploys.com"
+title: 10deploys
+language: pt-br
+timezone: America/Sao_Paulo
+description: Apresentado por Fernando Ike e Eriksen Costa, o podcast 10deploys é uma conversa quase formal sobre DevOps.
+twitter_username: "@10deploys"
+
+exclude:
+  - docker-compose.yml
+  - LICENSE.txt
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+sass:
+  style: compressed
+
+# The configuration below this line comes from the theme's configuration with minor changes.
+theme: 10deploys-theme
+
+plugins:
+  - jekyll-paginate-v2
+
+# See: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#page-configuration
+pagination:
+  enabled: true
+  debug: false
+
+collections:
+  pages:
+    output: true
+    permalink: /paginas/:title
+  episodes:
+    output: true
+    permalink: /episodios/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      image: ~
+      description: ~
+      toc: ~
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+      image: ~
+      number: ~
+      recording: ~
+      toc: ~
+      guests: ~
+      references: ~
+      recommendations: ~
+      media_credits: ~
+  - scope:
+      path: assets/defaults
+    values:
+      image: true
+  - scope:
+      path: assets/episodes
+    values:
+      image: true
+  - scope:
+      path: assets/pages
+    values:
+      image: true
+
+defaults_assets_path: /assets/defaults
+episodes_assets_path: /assets/episodes
+pages_assets_path: /assets/pages
+cover_filename: cover.jpg
+cover_medium_filename: cover-medium.jpg
+cover_small_filename: cover-small.jpg

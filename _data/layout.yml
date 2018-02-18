@@ -1,0 +1,89 @@
+# Home
+featured_image_description: Arte abstrata de Zhu Hehuai, imagem sob domínio público
+last_episode: Último episódio
+next_episode: Próximo episódio
+previous_episodes_title: Episódios anteriores
+
+
+# Episode
+episode_summary_title: Resumo
+episode_references_title: Referências
+episode_recommendations_title: Recomendações
+
+episode_recording_index_description: Use os links a seguir para ouvir o respectivo trecho do episódio.
+
+episode_agenda_broadcast_title: Transmissão
+episode_agenda_broadcast_description: Ao vivo através do YouTube
+episode_agenda_schedule_title: Quando
+episode_agenda_google_calendar_more_details_link: "Mais detalhes em:"
+episode_agenda_google_calendar_broadcast_link: "Transmissão ao vivo no YouTube:"
+
+episode_guests_plural_title: Convidados
+episode_guests_singular_title: Convidado
+
+episode_media_credits_title: Créditos dos arquivos audiovisuais
+episode_media_credits_picture_prefix: "Imagem usada na capa:"
+episode_media_credits_audio_prefix: "Áudio usado na gravação:"
+episode_media_credits_by: por
+
+google_calendar_text_prefix: Podcast 10deploys
+google_calendar_link_label: Adicionar lembrete no Google Calendar
+google_calendar_link_template: |
+  https://www.google.com/calendar/render?action=TEMPLATE&text=GOOGLE_CALENDAR_TEXT&dates=GOOGLE_CALENDAR_DATES/GOOGLE_CALENDAR_DATES&details=GOOGLE_CALENDAR_DETAILS&location=GOOGLE_CALENDAR_LOCATION&ctz=GOOGLE_CALENDAR_TIMEZONE&sf=true&output=xml
+
+soundcloud_player_color: AD005B
+
+episode_skip_query_param: "parte"
+
+
+# Episodes
+episodes_page: Página
+episodes_page_of: de
+
+episodes_pagination: Paginação
+
+episodes_pagination_previous: |
+  <span class="visually-hidden">Página </span>Anterior
+
+episodes_pagination_next: |
+  Próxima<span class="visually-hidden"> Página</span>
+
+episodes_pagination_previous_label: Página anterior
+episodes_pagination_next_label: Próxima página
+
+
+# Page
+page_index: Índice
+
+
+# General
+no_published_episodes: Não há episódios publicados ainda.
+
+recording_date_format: "%d/%m/%Y"
+recording_time_format: "%H:%M"
+recording_date_time_starts: a partir das
+
+recorded_in: Gravado em
+
+episode_number_title: Episódio
+
+social_network_from: de
+social_network_at: "no"
+
+about_section_id: sobre
+contact_form_section_id: fale
+
+menu_label: Menu
+menu_home_label: Home
+menu_close_label: Fechar
+
+menu_items:
+  - label: Episódios
+    path: /episodios
+    layouts_active:
+      - episodes
+      - episode
+  - label: Sobre
+    path: "#sobre"
+  - label: Fale conosco
+    path: "#fale"
