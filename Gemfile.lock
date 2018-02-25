@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/10deploys/theme.git
-  revision: 479d59f150d1593b734fb0d6a3c94c47215e83c4
+  revision: 1c12933d747885cb47a0088847b065ba734af065
   specs:
     10deploys-theme (0.1.0)
       jekyll (~> 3.7)
