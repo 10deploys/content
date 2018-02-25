@@ -39,7 +39,7 @@ recommendations: ~
 # TODO: music credits.
 media_credits:
   - description: ~
-    name: Rodovia com carros em trânsito.
+    name: Rodovia com carros em trânsito
     type: picture
     page: "https://www.pexels.com/photo/action-asphalt-auto-automobile-170286"
     author: Mike Birdy

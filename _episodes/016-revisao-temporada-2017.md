@@ -94,4 +94,4 @@ Um agradecimento especial aos 17 convidados que nos prestigiaram ao longo do ano
 ### Estatísticas do YouTube
 
 - 141 inscritos
-- 1400 visualizações
+- 1.400 visualizações
