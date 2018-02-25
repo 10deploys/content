@@ -1,6 +1,6 @@
 ---
 title: Revisão da temporada 2017
-date: 2017-12-28 21:00:00
+date: 2017-12-27 21:00:00
 
 image:
   position: top left
@@ -11,7 +11,7 @@ number: "016"
 
 recording:
   recorded: yes
-  date: 2017-12-28 21:00:00
+  date: 2017-12-27 21:00:00
   summary: |
     Fernando Ike e Eriksen Costa revisam os episódios de 2017. Revelam seus episódios favoritos, o que aprenderam e
     compartilham os planos para 2018.
