@@ -1,6 +1,6 @@
 ---
 title: Quality Assurance
-date: 2017-12-02 21:00:00
+date: 2017-11-30 21:00:00
 
 image:
   position: top center
@@ -11,7 +11,7 @@ number: "014"
 
 recording:
   recorded: yes
-  date: 2017-12-02 21:00:00
+  date: 2017-11-30 21:00:00
   summary: |
     Qualidade é uma das características mais solicitadas por clientes mas é frequentemente ignorada nas organizações.
     O podcast recebe Daniela Vieira (QuintoAndar) e Karoline Leite (Creditas) para explicarem as melhores práticas de
