@@ -15,7 +15,7 @@ summary_1: |
 
 summary_2: |
   <strong>Os episódios são transmitidos ao vivo no YouTube.</strong> Depois, são disponibilizados no
-  <a href="https://soundcloud.com/naestradadevops">SoundCloud</a>, no
+  <a href="https://soundcloud.com/10deploys">SoundCloud</a>, no
   <a href="https://itunes.apple.com/br/podcast/na-estrada-devops-podcast/id1229389273">iTunes</a> e no
   <a href="https://www.youtube.com/channel/UCREewYvRYYQSLlJYEq_ZXvw">YouTube</a>.
 
@@ -25,7 +25,7 @@ social_media:
   # Facebook: https://facebook.com/example
   Twitter: https://twitter.com/10deploys
   # LinkedIn: https://www.linkedin.com/company/example
-  Soundcloud: https://soundcloud.com/naestradadevops
+  Soundcloud: https://soundcloud.com/10deploys
   iTunes: https://itunes.apple.com/br/podcast/na-estrada-devops-podcast/id1229389273
   YouTube: https://www.youtube.com/channel/UCREewYvRYYQSLlJYEq_ZXvw
   GitHub: https://github.com/10deploys
