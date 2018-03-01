@@ -19,8 +19,39 @@ recording:
   soundcloud_id: 385763444
   youtube_id: x527pxPQJDk
 
-# TODO.
-toc: ~
+toc:
+  - title: Mudança de nome do podcast
+    instant: "0:59"
+  - title: Apresentação do tema
+    instant: "2:53"
+  - title: A história da infraestrutura imutável
+    instant: "3:23"
+  - title: Problemas comuns com a gestão manual de código
+    instant: "8:02"
+  - title: O que é infrastrutura imutável e quais seus benefícios
+    instant: "11:36"
+  - title: Eliminação de imprevisibilidade
+    instant: "16:56"
+  - title: Automação de configuração sozinha não traz os benefícios da infraestrutura imutável
+    instant: "19:18"
+  - title: Como começar?
+    instant: "21:22"
+  - title: "Os vários nomes da infraestrutura imutável: immutable deployments, phoenix server, pets vs cattle"
+    instant: "24:21"
+  - title: Posso aplicar patches diretamente emergenciais nas instâncias ou devo fazer um novo build da imagem?
+    instant: "27:30"
+  - title: Qual o primeiro passo?
+    instant: "36:02"
+  - title: Facilita a resolução de problemas
+    instant: "41:06"
+  - title: Estratégias de deploy
+    instant: "42:32"
+  - title: O software precisa estar preparado para essas estratégias
+    instant: "51:05"
+  - title: Conclusões
+    instant: "52:11"
+  - title: Recomendações
+    instant: "53:28"
 
 references:
   - title: With immutable infrastructure, your systems can rise from the dead
