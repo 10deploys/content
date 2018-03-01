@@ -4,6 +4,8 @@ language: pt-br
 timezone: America/Sao_Paulo
 description: Apresentado por Fernando Ike e Eriksen Costa, o podcast 10deploys é uma conversa quase formal sobre DevOps.
 twitter_username: "@10deploys"
+google_analytics_tracking_id: UA-114915961-1
+google_webmaster_verification_id: xFPs5xFzGicIgqgbgMUDBTPanLdpVTJBYQ1CwxXvnlQ
 
 exclude:
   - docker-compose.yml
