@@ -1,0 +1,38 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% assign last_episode = site.episodes.last %}
+     <url>
+        <loc>{{ "/" | absolute_url }}</loc>
+        <lastmod>{{ last_episode.date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>{{ "/episodios" | absolute_url }}</loc>
+        <lastmod>{{ last_episode.date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    {% for episode in site.episodes reversed %}
+    <url>
+        <loc>{{ episode.url | absolute_url }}</loc>
+        <lastmod>{{ episode.date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>{% if episode.recording.recorded %}monthly{% else %}daily{% endif %}</changefreq>
+        <priority>0.8</priority>
+    </url>
+    {% endfor %}
+
+    {% for page in site.pages reversed %}
+    <url>
+        <loc>{{ page.url | absolute_url }}</loc>
+        <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    {% endfor %}
+</urlset>
