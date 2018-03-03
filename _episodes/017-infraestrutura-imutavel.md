@@ -20,6 +20,8 @@ recording:
   youtube_id: x527pxPQJDk
 
 toc:
+  - title: Abertura
+    instant: "0:00"
   - title: Mudança de nome do podcast
     instant: "0:59"
   - title: Apresentação do tema
@@ -38,7 +40,7 @@ toc:
     instant: "21:22"
   - title: "Os vários nomes da infraestrutura imutável: immutable deployments, phoenix server, pets vs cattle"
     instant: "24:21"
-  - title: Posso aplicar patches diretamente emergenciais nas instâncias ou devo fazer um novo build da imagem?
+  - title: Posso aplicar patches emergenciais nas instâncias ou devo criar uma nova imagem sempre?
     instant: "27:30"
   - title: Qual o primeiro passo?
     instant: "36:02"

@@ -19,6 +19,8 @@ recording:
   youtube_id: bUTPkDRMq-k
 
 toc:
+  - title: Abertura
+    instant: "0:00"
   - title: Mudança de nome do podcast, novo domínio
     instant: "0:25"
   - title: Apresentação do tema
@@ -29,9 +31,9 @@ toc:
     instant: "5:25"
   - title: DBA?
     instant: "5:39"
-  - title: Como vê DevOps e Agile na sua perspectiva de DBA Oracle?
+  - title: DevOps e Agile na perspectiva de um DBA Oracle
     instant: "7:55"
-  - title: "O papel do DBA em tempos de DevOps"
+  - title: O papel do DBA em tempos de DevOps
     instant: "11:27"
   - title: Como virou gerente na Movida?
     instant: "13:29"
@@ -53,13 +55,13 @@ toc:
     instant: "37:27"
   - title: Usuários perceberam redução no tempo de entrega?
     instant: "38:35"
-  - title: Existiram barreiras culturais?
+  - title: Tiveram dificuldades como barreiras culturais e tecnológicas?
     instant: "40:26"
   - title: Quais os atalhos para empresas tradicionais?
     instant: "43:01"
-  - title: "Importância das métricas"
+  - title: Importância das métricas
     instant: "45:02"
-  - title: "Quais os desafios de migrar empresas tradicionais para a nuvem?"
+  - title: O desafios de migrar empresas tradicionais para a nuvem
     instant: "50:56"
   - title: Perguntas do concurso PHP Experience 2018
     instant: "57:35"
