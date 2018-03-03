@@ -110,7 +110,6 @@ recommendations:
     url: https://www.netflix.com/br/title/80192098
     who: Luiz Henrique de Souza
 
-# TODO: music credits.
 media_credits:
   - description: ~
     name: Rodovia com carros em trânsito
@@ -118,6 +117,20 @@ media_credits:
     page: "https://www.pexels.com/photo/action-asphalt-auto-automobile-170286"
     author: Mike Birdy
     author_page: "https://www.pexels.com/u/mikebirdy"
+    license: CC0
+  - name: Dupree Blues
+    description: ~
+    type: music
+    page: "https://commons.wikimedia.org/wiki/File:Blind_Willie_Walker_-_Dupree_Blues.ogg"
+    author: Blind Willie Walker
+    author_page: "https://en.wikipedia.org/wiki/Blind_Willie_Walker"
+    license: CC0
+  - name: Jazz Me Blues
+    description: ~
+    type: music
+    page: "https://commons.wikimedia.org/wiki/File:OriginalDixielandJassBand-JazzMeBlues.ogg"
+    author: Original Dixieland Jazz Band
+    author_page: "https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band"
     license: CC0
 ---
 
