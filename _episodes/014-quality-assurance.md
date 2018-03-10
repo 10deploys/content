@@ -38,6 +38,8 @@ guests:
       Twitter: https://twitter.com/karolineleite
       Website: http://blog.howtotest.com.br
 
+guests_gender_agreement: female
+
 references:
   - title: "Growing Agile: A Coach's Guide to Agile Testing"
     author: Karen Greaves e Sam Laing
