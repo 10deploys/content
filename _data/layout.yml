@@ -18,8 +18,10 @@ episode_agenda_schedule_title: Quando
 episode_agenda_google_calendar_more_details_link: "Mais detalhes em:"
 episode_agenda_google_calendar_broadcast_link: "Transmissão ao vivo no YouTube:"
 
-episode_guests_plural_title: Convidados
-episode_guests_singular_title: Convidado
+episode_guests_female_plural_title: Convidadas
+episode_guests_female_singular_title: Convidada
+episode_guests_male_plural_title: Convidados
+episode_guests_male_singular_title: Convidado
 
 episode_media_credits_title: Créditos dos arquivos audiovisuais
 episode_media_credits_picture_prefix: "Imagem usada na capa:"
