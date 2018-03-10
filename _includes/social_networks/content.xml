@@ -1,0 +1,85 @@
+{% capture episode_guests %}
+  {% for guest in episode.guests %}
+
+    {% assign guest_name = "" %}
+    {% for network in guest.social_media %}
+      {% if page.prefer_twitter_name and network[0] == "Twitter" or network[0] == "twitter" %}
+        {% capture guest_name %}
+          @{{ network[1] | replace: "https://twitter.com/", "" }}
+        {% endcapture %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign guest_name = guest_name | strip %}
+
+    {% capture actual_guest_name %}
+      {% if guest_name != "" %}
+        {{ guest_name }}
+      {% else %}
+        {{ guest.name }}
+      {% endif %}
+    {% endcapture %}
+
+    {{ actual_guest_name | strip }}{% if episode.guests.size > 1 %}{% unless forloop.last %},{% endunless %}{% endif %}
+  {% endfor %}
+{% endcapture %}
+
+{%
+  assign episode_guests = episode_guests |
+    newline_to_br |
+    strip_newlines |
+    replace: "<br />", " " |
+    replace: "  ", "" |
+    strip_html |
+    xml_escape |
+    strip |
+    split: "," |
+    array_to_sentence_string: "e" |
+    replace: ", e ", " e "
+%}
+
+{% capture actual_episode_guests %}
+  {% if episode.guests.size > 1 %}
+    {% if episode.guests_gender_agreement == "female" %}
+      com as convidadas {{ episode_guests }}
+    {% else %}
+      com os convidados {{ episode_guests }}
+    {% endif %}
+  {% elsif episode.guests.size == 1 %}
+    {% if episode.guests_gender_agreement == "female" %}
+      com a convidada {{ episode_guests }}
+    {% else %}
+      com o convidado {{ episode_guests }}
+    {% endif %}
+  {% endif %}
+{% endcapture %}
+
+{%
+  assign actual_episode_guests = actual_episode_guests |
+    newline_to_br |
+    strip_newlines |
+    replace: "<br />", " " |
+    strip
+%}
+
+{% if actual_episode_guests != "" %}
+  {% assign actual_episode_guests = actual_episode_guests | prepend: " " %}
+{% endif %}
+
+{% capture content %}
+Dia RECORDING_DATE (RECORDING_WEEKDAY) tem transmissão do episódio NUMBER, "TITLE"GUESTS.
+Horário, link da transmissão e outros detalhes em: {{ episode.url | absolute_url }}
+{% endcapture %}
+
+{{
+  content |
+    newline_to_br |
+    strip_newlines |
+    replace: "<br />", " " |
+    replace: "RECORDING_DATE", episode_recording_date |
+    replace: "RECORDING_WEEKDAY", episode_recording_weekday |
+    replace: "NUMBER", episode.number |
+    replace: "TITLE", episode.title |
+    replace: "GUESTS", actual_episode_guests
+    strip
+}}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+{% assign rfc3339 = "%Y-%m-%dT%H:%M:%S%:z" %}
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>{{ "/" | absolute_url }}</id>
+    <title>{{ site.title | xml_escape }}</title>
+    <subtitle>{{ site.description | xml_escape }}</subtitle>
+    <updated>{{ site.time | date: rfc3339 }}</updated>
+    <link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/atom+xml" />
+    {% if site.data.organization.license %}
+    <rights>
+        {{
+            site.data.organization.license |
+            newline_to_br |
+            strip_newlines |
+            replace: "<br />", " " |
+            strip_html |
+            xml_escape |
+            strip
+        }}
+    </rights>
+    {% endif %}
+
+    {% for author in site.data.organization.authors %}
+    <author>
+        <name>{{ author.name | xml_escape }}</name>
+        {% if author.social_media.Website %}
+        <uri>{{ author.social_media.Website | xml_escape }}</uri>
+        {% endif %}
+    </author>
+    {% endfor %}
+
+    {% for episode in site.episodes reversed %}
+    <entry>
+        {% assign episode_recording_date = episode.recording.date | date: "%d/%m" %}
+        {% assign episode_recording_weekday = episode.recording.date | date: "%w" %}
+        {% assign episode_recording_time = episode.recording.date | date: site.data.layout.recording_time_format %}
+        {% case episode_recording_weekday %}
+            {% when "0" %}
+                {% assign episode_recording_weekday = "domingo" %}
+            {% when "1" %}
+                {% assign episode_recording_weekday = "segunda" %}
+            {% when "2" %}
+                {% assign episode_recording_weekday = "terça" %}
+            {% when "3" %}
+                {% assign episode_recording_weekday = "quarta" %}
+            {% when "4" %}
+                {% assign episode_recording_weekday = "quinta" %}
+            {% when "5" %}
+                {% assign episode_recording_weekday = "sexta" %}
+            {% when "6" %}
+                {% assign episode_recording_weekday = "sábado" %}
+        {% endcase %}
+
+        <id>{{ episode.url | absolute_url }}</id>
+        <title>{{ episode.title | xml_escape }}</title>
+        <content>
+            {% include social_networks/content.xml %}
+        </content>
+        <published>{{ episode.date | date: rfc3339 }}</published>
+        <updated>{{ episode.date | date: rfc3339 }}</updated>
+        <link href="{{ episode.url | absolute_url }}" />
+
+        {% for tag in episode.tags %}
+        <category term="{{ tag | xml_escape }}" />
+        {% endfor %}
+        {% for category in episode.categories %}
+        <category term="{{ category | xml_escape }}" />
+        {% endfor %}
+
+        {% for author in episode.guests %}
+        <contributor>
+            <name>{{ author.name | xml_escape }}</name>
+            {% if author.social_media.Website %}
+            <uri>{{ author.social_media.Website | xml_escape }}</uri>
+            {% endif %}
+        </contributor>
+        {% endfor %}
+    </entry>
+    {% endfor %}
+</feed>
