@@ -11,7 +11,7 @@ number: "019"
 
 recording:
   recorded: no
-  date: 2018-03-15 22:00:00
+  date: 2018-03-15 22:00:00 -0300
   summary: |
     SRE é uma disciplina que incorpora aspectos de engenharia de software à operação de TI. Para uns, é uma
     implementação específica de DevOps. Yves Junqueira explica como SRE muda a operação de TI, compartilhando o que
