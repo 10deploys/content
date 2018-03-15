@@ -18,19 +18,56 @@ recording:
   soundcloud_id: 375723380
   youtube_id: XNvnmNlx6qI
 
-# TODO.
-toc: ~
+toc:
+  - title: Abertura
+    instant: "0:00"
+  - title: Apresentação do tema
+    instant: "0:24"
+  - title: O podcast integra a América Latina
+    instant: "1:51"
+  - title: Fatos que marcaram o ano para os apresentadores
+    instant: "3:46"
+  - title: Como foi gravar o podcast?
+    instant: "6:38"
+  - title: Os ouvintes mais assíduos, cidades com mais ouvintes e curiosidades
+    instant: "11:00"
+  - title: Estatísticas dos canais e o processo de gravação
+    instant: "13:32"
+  - title: Agradecimento aos convidados
+    instant: "14:23"
+  - title: Episódios favoritos
+    instant: "15:52"
+  - title: O que aprendemos ao longo dos episódios?
+    instant: "18:48"
+  - title: "Pergunta do ouvinte: Por quê o podcast não tem conta no Twitter, Facebook, etc?"
+    instant: "29:00"
+  - title: "Pergunta do ouvinte (Daniel Jesus): Quais as melhores ferramentas para automatizar o deploy de containers?"
+    instant: "31:39"
+  - title: O que esperar em 2018 em relação ao movimento Ágil, DevOps ou de uma tecnologia específica?
+    instant: "35:57"
+  - title: "Pergunta do ouvinte: O podcast usará crowdfunding?"
+    instant: "41:44"
+  - title: Mais agradecimentos
+    instant: "42:52"
+  - title: Recomendações
+    instant: "44:02"
 
 guests: ~
 
 references:
+  - title: 2017 – the year of containers! It wasn't? Oops. Maybe next year
+    author: Danny Bradbury
+    year: 2017
+    type: news
+    url: https://www.theregister.co.uk/2017/12/19/year_in_containers_and_year_ahead/
+
+recommendations:
   - title: REST API Design Rulebook
     author: Mark Massé
     year: 2011
     type: book
     url: http://amzn.to/2Ccy4Ew
-
-recommendations:
+    who: Eriksen Costa
   - title: "Star Wars Episódio VIII: Os Último Jedi"
     author: ~
     year: 2017
@@ -44,7 +81,6 @@ recommendations:
     url: http://www.imdb.com/title/tt4878326
     who: Fernando Ike
 
-# TODO: music credits.
 media_credits:
   - name: Fogos de artifício na Praia de Copacanaba (Rio de Janeiro)
     description: ~
@@ -53,6 +89,20 @@ media_credits:
     author: Prefeitura Municipal do Rio de Janeiro
     author_page: "http://prefeitura.rio/politica-de-privacidade"
     license: CCBY30
+  - name: Dupree Blues
+    description: ~
+    type: music
+    page: "https://commons.wikimedia.org/wiki/File:Blind_Willie_Walker_-_Dupree_Blues.ogg"
+    author: Blind Willie Walker
+    author_page: "https://en.wikipedia.org/wiki/Blind_Willie_Walker"
+    license: CC0
+  - name: Jazz Me Blues
+    description: ~
+    type: music
+    page: "https://commons.wikimedia.org/wiki/File:OriginalDixielandJassBand-JazzMeBlues.ogg"
+    author: Original Dixieland Jazz Band
+    author_page: "https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band"
+    license: CC0
 ---
 
 Último episódio de 2017, hora de revisar os episódios do ano! Fernando Ike e Eriksen Costa resenham seus episódios
@@ -95,3 +145,24 @@ Um agradecimento especial aos 17 convidados que nos prestigiaram ao longo do ano
 
 - 141 inscritos
 - 1.400 visualizações
+
+
+### Episódios favoritos
+
+Eriksen Costa:
+
+- [008: Continuous Delivery](/episodios/008-continuous-delivery)
+- [010: Test-Driven Development](/episodios/010-test-driven-development)
+- [011: Design Thinking](/episodios/011-design-thinking)
+
+Fernando Ike:
+
+- [007: State of the DevOps Report 2017](/episodios/007-state-devops-report-2017)
+- [010: Test-Driven Development](/episodios/010-test-driven-development)
+- [014: Quality Assurance](/episodios/014-quality-assurance)
+
+
+### Palestras do Fernando Ike em 2018
+
+- [Infraestrutura Imutável – A base das aplicações nativas na nuvem](http://agiletrendsbr.com/programacao-agiletrends-2018/), Agile Trends 2018 (27/03/2018)
+- [Containers: o estado da arte do ecossistema](https://qconsp.com/sp2018/presentation/containers-o-estado-da-arte-do-ecossistema), QCon São Paulo 2018 (11/05/2018)
