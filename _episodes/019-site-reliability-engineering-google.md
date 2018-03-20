@@ -101,6 +101,16 @@ references:
     year: 2016
     type: book
     url: http://amzn.to/2HNtuvv
+  - title: Programming Pearls
+    author: Jon Bentley
+    year: 1999
+    type: book
+    url: http://amzn.to/2FQ6j7a
+  - title: "Code Complete: A Practical Handbook of Software Construction"
+    author: Steve McConnell
+    year: 2004
+    type: book
+    url: http://amzn.to/2FMCLXT
   - title: The Go Programming Language
     author: ~
     year: ~
@@ -118,18 +128,6 @@ references:
     url: https://yourbase.io
 
 recommendations:
-  - title: Programming Pearls
-    author: Jon Bentley
-    year: 1999
-    type: book
-    url: http://amzn.to/2FQ6j7a
-    who: Yves Junqueira
-  - title: "Code Complete: A Practical Handbook of Software Construction"
-    author: Steve McConnell
-    year: 2004
-    type: book
-    url: http://amzn.to/2FMCLXT
-    who: Yves Junqueira
   - title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
     author: Ben Horowitz
     year: 2014
