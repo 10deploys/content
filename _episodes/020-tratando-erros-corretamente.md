@@ -24,7 +24,7 @@ toc: ~
 guests:
   - name: Augusto Pascutti
     biography: |
-      Augusto Pascutti é Head de Arquitetura na Easy. Desenvolver web há mais de 10 anos, é apaixonado sobre pessoas
+      Augusto Pascutti é Head de Arquitetura na Easy. Desenvolvedor web há mais de 10 anos, é apaixonado sobre pessoas
       (comunidades, práticas ágeis), código (open source, refactoring, Integração Contínua) e linguagens (PHP,
       JavaScript, Go, Java e padrões web).
     social_media:
