@@ -11,7 +11,7 @@ number: "020"
 
 recording:
   recorded: no
-  date: 2018-04-04 23:00:00 -0300
+  date: 2018-04-12 22:00:00 -0300
   summary: |
     Os cenários de erros compõe uma parte importante no ciclo de vida das aplicações. No entanto, vários vieses
     cognitivos fazem com que desenvolvedores não tratem os erros com a devida atenção. Augusto Pascutti (Easy)
