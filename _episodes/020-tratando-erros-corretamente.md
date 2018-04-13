@@ -17,7 +17,7 @@ recording:
     não tratam os erros com a devida atenção. Lais Varejão (Vinta Software) e Augusto Pascutti (Easy) explicam como
     tratar os erros corretamente.
   soundcloud_id: ~
-  youtube_id: 9cy4MAGm6Es
+  youtube_id: 9r5H-_aS49c
 
 toc: ~
 
