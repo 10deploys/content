@@ -181,3 +181,8 @@ e como tudo isso é importante para processos como recuperação de desastre e *
 
 O José Geraldo foi o ganhador do concurso 4Linux e vai fazer, gratuitamente, o curso
 [DevSecOps](https://www.4linux.com.br/curso/devsecops).
+
+### Código de desconto do DevOpsDays São Paulo
+
+O código de desconto para o [DevOpsDays SP](https://www.devopsdays.org/events/2018-sao-paulo/welcome/) é
+`DOD10DEPLOYS10`. O desconto é de 10% do valor da inscrição.
