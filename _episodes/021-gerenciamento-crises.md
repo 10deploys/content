@@ -117,19 +117,19 @@ media_credits:
     author: Blair Fraser
     author_page: "http://blairfraser.co.uk/"
     license: CC0
-  - name: Dupree Blues
+  - name: Doctor Jazz
     description: ~
     type: music
-    page: "https://commons.wikimedia.org/wiki/File:Blind_Willie_Walker_-_Dupree_Blues.ogg"
-    author: Blind Willie Walker
-    author_page: "https://en.wikipedia.org/wiki/Blind_Willie_Walker"
+    page: "https://archive.org/details/78_doctor-jazz_the-yorkshire-jazz-band-alan-cooper-dickie-hawdon-eddie-odonnell-kit-b_gbia0009430b"
+    author: Jelly Roll Morton
+    author_page: "https://en.wikipedia.org/wiki/Jelly_Roll_Morton"
     license: CC0
-  - name: Jazz Me Blues
+  - name: Green Applejack Blues
     description: ~
     type: music
-    page: "https://commons.wikimedia.org/wiki/File:OriginalDixielandJassBand-JazzMeBlues.ogg"
-    author: Original Dixieland Jazz Band
-    author_page: "https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band"
+    page: "https://archive.org/details/78_green-applejack-blues_rushtons-california-ramblers-chuck-mackey-paul-weigand-rosy_gbia0030436b"
+    author: The California Ramblers
+    author_page: "https://en.wikipedia.org/wiki/The_California_Ramblers"
     license: CC0
 ---
 
