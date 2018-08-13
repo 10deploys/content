@@ -16,7 +16,7 @@ recording:
     há vagas para profissionais "DevOps". Nesse episódio discutimos a história desse movimento e a sua influência no
     mercado de tecnologia.
   soundcloud_id: ~
-  youtube_id: ~
+  youtube_id: eIW4xrBvkZQ
 
 toc: ~
 
