@@ -119,6 +119,16 @@ references:
     year: ~
     type: website
     url: https://testing.googleblog.com
+  - title: Capybara
+    author: ~
+    year: ~
+    type: tool
+    url: http://teamcapybara.github.io/capybara
+  - title: Cucumber
+    author: ~
+    year: ~
+    type: tool
+    url: https://cucumber.io
 
 
 recommendations:
