@@ -11,7 +11,7 @@ number: "027"
 
 recording:
   recorded: no
-  date: 2018-10-11 21:00:00
+  date: 2018-10-11 21:00:00 -0300
   summary: |
     A Developer Experience (DX) busca incentivar a Entrega Contínua, colocando o o desenvolvedor no centro do processo
     de entrega de software. Bruno Tavares (Nubank) explica como DX pode te ajudar.

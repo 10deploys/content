@@ -11,7 +11,7 @@ number: "026"
 
 recording:
   recorded: yes
-  date: 2018-09-27 21:00:00
+  date: 2018-09-27 21:00:00 -0300
   summary: |
     O State of DevOps Report de 2018 está disponível. Organizações de elite, software delivery and organizational
     performance (SDO performance) e outros destaques são discutidos nesse episódio.
