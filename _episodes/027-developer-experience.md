@@ -92,6 +92,10 @@ references:
     year: 2018
     type: post
     url: https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4
+  - title: "Como avaliar (e auxiliar) a sua equipe com Entrega Contínua"
+    year: 2017
+    type: post
+    url: https://www.infoq.com/br/articles/como-avaliar-sua-equipe-com-entrega-continua
 
 recommendations:
   - title: We Are Software People
