@@ -92,7 +92,8 @@ references:
     year: 2018
     type: post
     url: https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4
-  - title: "Como avaliar (e auxiliar) a sua equipe com Entrega Contínua"
+  - title: Como avaliar (e auxiliar) a sua equipe com Entrega Contínua
+    author: Bruno Tavares e Paulo Caroli
     year: 2017
     type: post
     url: https://www.infoq.com/br/articles/como-avaliar-sua-equipe-com-entrega-continua
