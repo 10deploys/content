@@ -24,7 +24,7 @@ toc: ~
 guests:
   - name: Marcelio Leal
     biography: |
-      Marcelio Leal possui mais de 12 anos de experiência em desenvolvimento de software. Nos últimos 10 anos, tem
+      Marcelio Leal possui mais de 16 anos de experiência em desenvolvimento de software. Nos últimos 10 anos, tem
       liderado equipes de tecnologia, atuando na criação de equipes de desenvolvimento de produto de alto desempenho.
       Ex-CTO do QEdu e da Tripda.
     social_media:
