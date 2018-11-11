@@ -29,7 +29,7 @@ toc:
     instant: "6:24"
   - title: Transição de desenvolvimento para infraestrutura
     instant: "8:06"
-  - title: Diversidade de habilidade tornam um time melhor
+  - title: Diversidade de habilidade torna um time melhor
     instant: "10:38"
   - title: DevOps é ser responsável
     instant: "13:02"

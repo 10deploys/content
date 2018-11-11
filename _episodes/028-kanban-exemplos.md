@@ -65,7 +65,7 @@ toc:
     instant: "1:07:52"
   - title: Como começar?
     instant: "1:14:59"
-  - title: Políticas explícitas, falácia dos custos irrecuperável e pôquer
+  - title: Políticas explícitas, falácia dos custos irrecuperáveis e pôquer
     instant: "1:23:39"
   - title: Recomendações
     instant: "1:29:17"
