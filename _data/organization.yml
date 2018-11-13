@@ -43,9 +43,9 @@ about_summary: |
 authors:
   - name: Fernando Ike
     biography: |
-      <strong>Fernando Ike é DevOps Engineer na QuintoAndar</strong>, startup que ajuda as pessoas a alugarem
-      apartamento com rapidez e segurança em São Paulo. Possui mais de 20 anos de experiência, já foi Administrador
-      de Sistemas e Gestor de TI em empresas públicas e privadas, liderando transformações ágeis. Também organiza o
+      <strong>Fernando Ike é CTO na Nuveo</strong>, startup que ajuda empresas a analisar documentos de forma
+      automatizada via Inteligência Artificial. Possui mais de 20 anos de experiência, já foi Administrador de
+      Sistemas e Gestor de TI em empresas públicas e privadas, liderando transformações ágeis. Também organiza o
       Meetup Docker São Paulo.
     social_media:
       Twitter: https://twitter.com/fernandoike
@@ -53,9 +53,9 @@ authors:
       Website: https://www.fernandoike.com
   - name: Eriksen Costa
     biography: |
-      <strong>Eriksen Costa é Especialista em TI na Easy</strong>, solução de mobilidade urbana presente em 12 países
-      da América Latina. Como desenvolvedor de software com mais de 10 anos de experiência, ajudou times e organizações
-      a reduzirem o tempo ao mercado, mesclando práticas do Lean, das metodologias ágeis, do Continuous Delivery e do
+      <strong>Eriksen Costa é Gerente de Desenvolvimento na Cabify</strong>, solução de mobilidade urbana presente em
+      12 países. Como desenvolvedor de software com mais de 10 anos de experiência, ajudou times e organizações a
+      reduzirem o tempo ao mercado, mesclando práticas do Lean, das metodologias ágeis, do Continuous Delivery e do
       movimento DevOps.
     social_media:
       Twitter: https://twitter.com/eriksencosta
