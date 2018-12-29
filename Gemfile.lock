@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/10deploys/theme.git
-  revision: 2cf041e26bab5e0243ff8e75366ebadea697f46c
+  revision: 3f3a77562bac6385db1d9c81fe143ec9193eeab1
   specs:
     10deploys-theme (0.1.0)
       jekyll (~> 3.7)
@@ -12,7 +12,7 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.3)
+    concurrent-ruby (1.1.4)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -52,8 +52,8 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
-    rb-inotify (0.9.10)
-      ffi (>= 0.5.0, < 2)
+    rb-inotify (0.10.0)
+      ffi (~> 1.0)
     rouge (3.3.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
