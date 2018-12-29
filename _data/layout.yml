@@ -11,6 +11,9 @@ episode_references_title: Referências
 episode_recommendations_title: Recomendações
 
 episode_recording_index_description: Use os links a seguir para ouvir o respectivo trecho do episódio.
+episode_recording_player_audio_unsupported: Seu navegador não suporta o player padrão do HTML5.
+episode_recording_player_audio_unsupported_download_text: Faça o download do arquivo de áudio do episódio.
+episode_recording_youtube_view_text: Veja a gravação do episódio no
 
 episode_agenda_broadcast_title: Transmissão
 episode_agenda_broadcast_description: Ao vivo através do YouTube
