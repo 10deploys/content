@@ -14,6 +14,7 @@ recording:
   summary: |
     Trabalha em uma grande empresa, pública ou privada, e tem dúvidas sobre como implantar DevOps? Jeferson Noronha
     (Santander) conta suas experiências na implantação de DevOps em um grande banco e em um grande e-commerce.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929932-44100-2-2001166ec9ee6.m4a
   soundcloud_id: 366995669
   youtube_id: rRAgPLPB7-w
 

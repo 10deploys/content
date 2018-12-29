@@ -15,6 +15,7 @@ recording:
     Kanban é um método de gestão que tem como objetivo a otimização de processos observando o contexto em que estão
     inseridos, de forma incremental e evolucionária. Marcelio Leal (QEdu, Tripda, Predicta) compartilha suas
     experiências.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-10-8/5670962-44100-2-e8c695684d67c.m4a
   soundcloud_id: 526669482
   youtube_id: SlWeLFiO0hI
 

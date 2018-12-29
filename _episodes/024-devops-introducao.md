@@ -14,6 +14,7 @@ recording:
     DevOps nasceu como um movimento cultural e hoje está em todas as partes: fornecedores vendem ferramentas DevOps e
     há vagas para profissionais "DevOps". Nesse episódio discutimos a história desse movimento e a sua influência no
     mercado de tecnologia.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256674-48000-2-48954c1abc344.mp3
   soundcloud_id: 486765516
   youtube_id: eIW4xrBvkZQ
 

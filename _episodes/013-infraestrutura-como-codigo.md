@@ -16,6 +16,7 @@ recording:
     Infraestrutura como código é uma das bases para a implantação da cultura DevOps em uma organização. Diego Morales
     (Stone Pagamentos) e Guto Carvalho (Instruct) contam as vantagens de ter uma infraestrutura como código e também
     como começar a organizá-la.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929989-44100-2-68cd65c3e5ce2.m4a
   soundcloud_id: 353069075
   youtube_id: NODo9_QoW5M
 

@@ -16,6 +16,7 @@ recording:
     Os cenários de erros compõe uma parte importante no ciclo de vida das aplicações. No entanto, muitos desenvolvedores
     não tratam os erros com a devida atenção. Lais Varejão (Vinta Software) e Augusto Pascutti (Easy) explicam como
     tratar os erros corretamente.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256297-44100-2-831b2767dbce1.m4a
   soundcloud_id: 429109635
   youtube_id: 9r5H-_aS49c
 

@@ -16,6 +16,7 @@ recording:
     REST (REpresentational State Transfer) é um estilo arquitetural para criação de sistemas distribuídos sobre a web.
     Fabio Petrillo (Polytechnique de Montréal) explica as boas práticas no desenvolvimento de APIs REST e conta um
     pouco sobre sua pesquisa no tema.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929861-44100-2-5a037c58fb19e.m4a
   soundcloud_id: 319598447
   youtube_id: UJ5be5LRr1I
 

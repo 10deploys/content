@@ -16,6 +16,7 @@ recording:
     Domain-Driven Design (DDD) é uma forma de desenvolver software que foca em implementar o melhor design de
     software baseado em modelos que refletem explicitamente as competências da organização. Os apresentadores
     conversam sobre a relação do DDD com o DevOps.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929817-44100-2-f578b5096d51e.m4a
   soundcloud_id: 314758274
   youtube_id: SonmKWtIN7s
 

@@ -15,6 +15,7 @@ recording:
   summary: |
     Fernando Ike e Eriksen Costa revisam os episódios de 2017. Revelam seus episódios favoritos, o que aprenderam e
     compartilham os planos para 2018.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929889-44100-2-51023d81e91a1.m4a
   soundcloud_id: 375723380
   youtube_id: XNvnmNlx6qI
 

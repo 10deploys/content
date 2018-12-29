@@ -16,6 +16,7 @@ recording:
   summary: |
     Continuous Delivery (CD) é uma prática que permite às organizações entregarem valor ao cliente de forma contínua.
     Eduardo Santos (Agência Espacial Brasileira) explica os benefícios, as práticas que suportam o CD e como implantar CD.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929860-44100-2-739f3f6454bd4.m4a
   soundcloud_id: 335173172
   youtube_id: HvqByg5ouw0
 

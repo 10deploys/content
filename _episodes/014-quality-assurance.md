@@ -15,6 +15,7 @@ recording:
   summary: |
     Qualidade é uma das características mais solicitadas por clientes mas é frequentemente ignorada nas organizações.
     Daniela Vieira (QuintoAndar) e Karoline Leite (Creditas) explicam as melhores práticas de QA.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929985-44100-2-759328fe8daf6.m4a
   soundcloud_id: 364191560
   youtube_id: 77tBvZ_Jbf4
 

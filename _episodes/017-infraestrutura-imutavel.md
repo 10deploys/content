@@ -16,6 +16,7 @@ recording:
     Infraestrutura imutável é uma forma de conceber a infraestrutura que provê estabilidade, eficiência e fidelidade
     usando o conceito de imutabilidade. Fernando Ike explica as vantagens e as características dessa forma de gerir
     a infraestrutura.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256144-44100-2-07501d2b8adf5.m4a
   soundcloud_id: 385763444
   youtube_id: x527pxPQJDk
 

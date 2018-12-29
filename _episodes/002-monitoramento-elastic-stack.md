@@ -16,6 +16,7 @@ recording:
     As ferramentas de monitoramento evoluíram muito ao longo dessa década. O Elastic Stack é um conjunto de ferramentas
     modernas para busca, análise e visualização de dados em tempo real. Eduardo Neves (consultor independente) conta como
     tirar proveito desse stack.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929825-44100-2-4488ba8186d5c.m4a
   soundcloud_id: 316791631
   youtube_id: VIzh5I-6HJ0
 

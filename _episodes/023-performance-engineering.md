@@ -14,6 +14,7 @@ recording:
   summary: |
     Performance Engineering é um conjunto de técnicas aplicadas em um sistema para garantir que os requisitos não
     funcionais de desempenho estão aceitáveis. Kelvin Ronny (Daitan Group) dá uma visão geral sobre o tema.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256361-48000-2-2231c3d9dddcb.mp3
   soundcloud_id: 476486733
   youtube_id: eNt0uLCP_rM
 

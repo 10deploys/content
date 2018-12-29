@@ -15,6 +15,7 @@ recording:
   summary: |
     O alinhamento entre desenvolvimento e operações é fundamental para o gerenciamento de crises. Tatiane Payá (iFood)
     e Gustavo Lichti (Geru) compartilham experiências sobre o assunto.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256358-48000-2-32816ba7402d8.mp3
   soundcloud_id: 461992125
   youtube_id: 5Hs1K1hryQ4
 

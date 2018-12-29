@@ -16,6 +16,7 @@ recording:
     Test-Driven Development (TDD) é uma prática de desenvolvimento e um pré-requisito para Continuous Delivery. Felipe
     Martins (UPX) e Nelson Senna (TopTal) explicam porquê praticar TDD, os diferentes tipos de testes existentes e como
     começar a praticar TDD.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929967-44100-2-84d1b5dcc848.m4a
   soundcloud_id: 339239452
   youtube_id: bpXnyhPVJCc
 

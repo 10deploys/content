@@ -15,6 +15,7 @@ recording:
   summary: |
     O State of DevOps Report de 2017 está disponível e traz números e descobertas importantes. Discutimos esses números
     e outros destaques do estudo.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929851-44100-2-5da1bcf9daf8b.m4a
   soundcloud_id: 331600074
   youtube_id: Zn6dzeBtzCU
 

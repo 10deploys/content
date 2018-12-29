@@ -15,6 +15,7 @@ recording:
   summary: |
     Um ambiente de alto desempenho requer pessoas saudáveis e bem-estar. Muitas pessoas sofrem da Síndrome do Impostor.
     Douglas Andrade (Shopify) e Marco Júnior (Prefeitura Municipal de Esteio) desvendam o tema.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929992-44100-2-ac1be17dfdb2d.m4a
   soundcloud_id: 345576609
   youtube_id: I-YellIvkrs
 

@@ -16,6 +16,7 @@ recording:
     A DockerCon 2017 anunciou várias novidades como o multi-stages build, o Desktop2Cloud, o LinuxKit e o projeto
     Moby. Wellington Silva (Easy) foi convidado pela organização do evento e nos conta como cada novidade vai ajudar
     o dia a dia dos usuários do Docker.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3930013-44100-2-a886d787d5ba6.m4a
   soundcloud_id: 321486043
   youtube_id: RpLEagbNGgQ
 

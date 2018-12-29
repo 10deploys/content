@@ -15,6 +15,7 @@ recording:
   summary: |
     Luiz Henrique de Souza compartilha sua experiência na adoção de DevOps e da Nuvem na JSL (operador logístico
     intermodal) e da Movida (aluguel de carros).
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256216-44100-2-1145f3a74a239.m4a
   soundcloud_id: 404135460
   youtube_id: bUTPkDRMq-k
 

@@ -14,6 +14,7 @@ recording:
   summary: |
     Mais de 16 anos se passaram desde o Manifesto Ágil e muitas vezes ele foi considerado morto. Afinal, as metodologias
     Ágeis ainda são válidas em tempos de DevOps? Discutimos essas críticas e também a influência do Agile no DevOps.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929850-44100-2-10d1b3ea9b679.m4a
   soundcloud_id: 328417564
   youtube_id: uG_BE_GjBpE
 

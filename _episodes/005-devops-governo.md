@@ -16,6 +16,7 @@ recording:
     Instituições públicas são conhecidas por serem burocráticas e lentas. É possível aplicar a cultura DevOps nesse
     contexto? Adriano Vieira (Dataprev), Eduardo Santos (Agência Espacial Brasileira) e Guto Carvalho (Instruct)
     compartilham suas experiências no setor público.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929954-44100-2-d32cfcdee6328.m4a
   soundcloud_id: 324606372
   youtube_id: 2aFo8Ln5jnc
 

@@ -15,6 +15,7 @@ recording:
   summary: |
     A Developer Experience (DX) busca incentivar a Entrega Contínua, colocando o o desenvolvedor no centro do processo
     de entrega de software. Bruno Tavares (Nubank) explica como DX pode te ajudar.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-9-12/5105294-44100-2-4dc853084e596.m4a
   soundcloud_id: 513229974
   youtube_id: e8dIKlI3Ojs
 

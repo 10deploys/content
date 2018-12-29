@@ -16,6 +16,7 @@ recording:
     DevSecOps é o reconhecimento da segurança como um processo importante no DevOps. Diana Arnos (High Stakes) e Bruno
     Dantas (Banco Safra) discutem as estratégias disponíveis para melhorar a segurança das aplicações e da
     infraestrutura.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929877-44100-2-3c07fd13d1976.m4a
   soundcloud_id: 337239286
   youtube_id: lQEmifzIQC4
 

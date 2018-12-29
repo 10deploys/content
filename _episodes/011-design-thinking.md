@@ -15,6 +15,7 @@ recording:
     DevOps ajuda a entregar novas capacidades do negócio do jeito certo. Porém, como criar o produto certo? Helene
     Romanzini (Easy) e Julian Jordan (McKinsey) explicam como Design Thinking ajuda a criar produtos que as pessoas
     querem.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-5/3929976-44100-2-74df70a7a476b.m4a
   soundcloud_id: 344669277
   youtube_id: 5T_z-u9x5WE
 

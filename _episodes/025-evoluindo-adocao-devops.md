@@ -13,6 +13,7 @@ recording:
   summary: |
     Para atingir a promessa de agilidade de negócio do DevOps, é necessário garantir construir com qualidade. Igor
     Souza (Stone Pagamentos) explica como evoluir sua adoção DevOps para alcançar essa promessa.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-9-1/4877023-48000-2-19e33269e34ba.mp3
   soundcloud_id: 500491632
   youtube_id: bQSK-uu3FYo
 

@@ -14,6 +14,7 @@ recording:
   summary: |
     Reconhecida por sua estratégia de marketing omnicanal, a operação da Leroy Merlin depende muito da TI para 
     executá-la. Bruno Padilha e Gabriel Machado contam como DevOps e Continuous Delivery são aplicados na varejista.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-7-26/4256384-48000-2-5b58e2c1ec21a.mp3
   soundcloud_id: 468665853
   youtube_id: qkhX1WeFTSc
 

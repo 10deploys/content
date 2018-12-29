@@ -15,6 +15,7 @@ recording:
   summary: |
     O State of DevOps Report de 2018 está disponível. Organizações de elite, software delivery and organizational
     performance (SDO performance) e outros destaques são discutidos nesse episódio.
+  audio_file: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-8-28/4837555-44100-2-4c80d9ff0c101.m4a
   soundcloud_id: 506402865
   youtube_id: asx9j2nLfzM
 
