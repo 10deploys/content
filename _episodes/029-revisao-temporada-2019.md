@@ -11,7 +11,7 @@ number: "029"
 
 recording:
   recorded: no
-  date: 2019-03-14 21:30:00
+  date: 2019-03-14 21:30:00 -0300
   summary: |
     Eriksen Costa e o convidado Rafael Ferrari revisam os episódios de 2018. Revelam seus episódios favoritos, as
     estatísticas e compartilham os planos para 2019.
