@@ -6,6 +6,11 @@ permalink: /convidado
 description: |
   Saiba como se preparar para participar da gravação do 10deploys.
 
+image:
+  show: yes
+  description: Homem pensativo, por Pille Kirsi, sob domínio público.
+  # https://www.pexels.com/photo/man-wearing-brown-hat-706374
+
 toc:
   - anchor: guia
     title: Guia do episódio
