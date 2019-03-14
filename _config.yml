@@ -45,6 +45,7 @@ defaults:
       type: pages
     values:
       layout: page
+      show_date: false
       image: ~
       description: ~
       toc: ~
