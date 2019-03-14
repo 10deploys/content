@@ -68,12 +68,14 @@ guests:
     biography: |
       Tatiane Payá é coordenadora de TI na iFood. Tem 17 anos de experiência em TI e tem há 5 anos tem trabalhado
       para garantir o sucesso da comunicação entre desenvolvimento e operações.
-    social_media: ~
+    social_media:
+      LinkedIn: https://www.linkedin.com/in/tatianepaya
   - name: Gustavo Lichti
     biography: |
       Gustavo Lichti é SRE na Geru. Capacitou mais de 1.900 pessoas em GNU/Linux, VoIP e infra-estrutura de rede
       entre os anos de 2007 e 2013.
-    social_media: ~
+    social_media:
+      LinkedIn: https://www.linkedin.com/in/gustavo-lichti
 
 references: ~
 
