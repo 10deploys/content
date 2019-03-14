@@ -92,3 +92,5 @@ menu_items:
     path: "#sobre"
   - label: Fale conosco
     path: "#fale"
+  - label: Ouça
+    path: /ouvir
