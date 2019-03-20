@@ -36,7 +36,7 @@ toc:
     instant: "9:12"
   - title: Convidada de última hora
     instant: "9:50"
-  - title: "Palestra Ao Vivaço 10deploys"
+  - title: Palestra "Ao vivaço 10deploys"
     instant: "10:37"
   - title: Como foi a palestra?
     instant: "12:58"
