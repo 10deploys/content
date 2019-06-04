@@ -75,7 +75,7 @@ references:
   - title: 2018 State of DevOps Report
     author: Nicole Forsgren, Jez Humble e Gene Kim
     year: 2018
-    type: book
+    type: doc
     url: https://cloudplatformonline.com/2018-state-of-devops.html
   - title: "Lean Enterprise: How High Performance Organizations Innovate at Scale"
     author: Jez Humble, Joanne Molesky e Barry O'Reilly

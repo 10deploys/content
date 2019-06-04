@@ -50,7 +50,7 @@ toc:
   - title: O que significa APM (Application Peformance Management)?
     instant: "34:48"
   - title: "Pergunta do ouvinte (Pery Lemke): o que você acha do Prometheus?"
-    instant: "34:48"
+    instant: "39:00"
   - title: "Tipos de teste de performance: em detalhes"
     instant: "41:37"
   - title: O princípio de Pareto
